@@ -24,3 +24,6 @@ V_5 \frac{dc_5}{dt} &= Q_{15} c_1 + Q_{25} c_2
 Para aplicar o sistema de resuloção de EDO's de RK4, aplica-se a teoria de espaços de estados.
 Criando assim dois vetores, um termo das coordenadas generalizadas e outro de suas derivadas.
 No código a função irá calcular o vetor das derivadas, e substitui-los no RK4
+## Resolução de EDOs acopladas
+
+![Sistema de EDOs](https://raw.githubusercontent.com/arthurhsalgado/Concentra-o-Tanques-RK4/main/ConcentracaoRk4.png)
